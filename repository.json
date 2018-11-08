@@ -1,0 +1,12 @@
+{
+  "notes": {
+    "name": "Notes",
+    "desc": "Allow you to write a long notes for thought",
+    "url": "https://github.com/sarasvati-platform/plugin-notes/archive/0.1.zip"
+  },
+  "folders": {
+    "name": "Folders",
+    "desc": "Allows you to associate a folder with a thought",
+    "url": "https://github.com/sarasvati-platform/plugin-folders/archive/0.1.zip"
+  }
+}
