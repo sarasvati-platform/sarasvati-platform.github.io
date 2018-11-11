@@ -2,11 +2,21 @@
   "notes": {
     "name": "Notes",
     "desc": "Allow you to write a long notes for thought",
-    "url": "https://github.com/sarasvati-platform/plugin-notes/archive/0.1.zip"
+    "url": "https://github.com/sarasvati-platform/plugin-notes/archive/0.2.zip"
   },
   "folders": {
     "name": "Folders",
     "desc": "Allows you to associate a folder with a thought",
-    "url": "https://github.com/sarasvati-platform/plugin-folders/archive/0.1.zip"
+    "url": "https://github.com/sarasvati-platform/plugin-folders/archive/0.2.zip"
   }
+  "console": {
+    "name": "Console",
+    "desc": "Allows you execute command in console",
+    "url": "https://github.com/sarasvati-platform/plugin-console/archive/0.1.zip"
+  },
+  "multibrain": {
+    "name": "Multibrain",
+    "desc": "Allows you have a multiple brains",
+    "url": "https://github.com/sarasvati-platform/plugin-multibrain/archive/0.1.zip"
+  },
 }
