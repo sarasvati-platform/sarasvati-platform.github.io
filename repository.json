@@ -8,7 +8,7 @@
     "name": "Folders",
     "desc": "Allows you to associate a folder with a thought",
     "url": "https://github.com/sarasvati-platform/plugin-folders/archive/0.2.zip"
-  }
+  },
   "console": {
     "name": "Console",
     "desc": "Allows you execute command in console",
