@@ -18,5 +18,10 @@
     "name": "Multibrain",
     "desc": "Allows you have a multiple brains",
     "url": "https://github.com/sarasvati-platform/plugin-multibrain/archive/0.1.zip"
+  },
+  "quick-edit": {
+    "name": "Quick Edit",
+    "desc": "Allows you edit your thouts quickly",
+    "url": "https://github.com/sarasvati-platform/plugin-quick-edit/archive/0.1.zip"
   }
 }
