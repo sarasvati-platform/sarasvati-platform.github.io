@@ -28,5 +28,10 @@
     "name": "Quick Create",
     "desc": "Allows you create thoughts quickly",
     "url": "https://github.com/sarasvati-platform/plugin-quick-create/archive/master.zip"
+  },
+  "theme-dark-fusion": {
+     "name": "Quick Create",
+    "desc": "Allows you create thoughts quickly",
+    "url": "https://github.com/sarasvati-platform/theme-dark-fusion/archive/master.zip"
   }
 }
