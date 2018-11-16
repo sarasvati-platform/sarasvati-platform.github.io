@@ -2,26 +2,31 @@
   "notes": {
     "name": "Notes",
     "desc": "Allow you to write a long notes for thought",
-    "url": "https://github.com/sarasvati-platform/plugin-notes/archive/0.2.zip"
+    "url": "https://github.com/sarasvati-platform/plugin-notes/archive/master.zip"
   },
   "folders": {
     "name": "Folders",
     "desc": "Allows you to associate a folder with a thought",
-    "url": "https://github.com/sarasvati-platform/plugin-folders/archive/0.2.zip"
+    "url": "https://github.com/sarasvati-platform/plugin-folders/archive/master.zip"
   },
   "console": {
     "name": "Console",
     "desc": "Allows you execute command in console",
-    "url": "https://github.com/sarasvati-platform/plugin-console/archive/0.1.zip"
+    "url": "https://github.com/sarasvati-platform/plugin-console/archive/master.zip"
   },
   "multibrain": {
     "name": "Multibrain",
     "desc": "Allows you have a multiple brains",
-    "url": "https://github.com/sarasvati-platform/plugin-multibrain/archive/0.1.zip"
+    "url": "https://github.com/sarasvati-platform/plugin-multibrain/archive/master.zip"
   },
   "quick-edit": {
     "name": "Quick Edit",
-    "desc": "Allows you edit your thouts quickly",
-    "url": "https://github.com/sarasvati-platform/plugin-quick-edit/archive/0.1.zip"
+    "desc": "Allows you edit your thoughts quickly",
+    "url": "https://github.com/sarasvati-platform/plugin-quick-edit/archive/master.zip"
+  },
+  "quick-create": {
+    "name": "Quick Create",
+    "desc": "Allows you create thoughts quickly",
+    "url": "https://github.com/sarasvati-platform/plugin-quick-create/archive/master.zip"
   }
 }
